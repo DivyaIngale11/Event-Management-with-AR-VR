@@ -7,7 +7,7 @@
   <ul>
     <li> View all upcoming events</li>
     <li> Book your favorite events</li>
-    <li> Take a 360° virtual tour of the event venue</li>
+    <li> 360° panoramic view of event halls or locations</li>
     <li> Use AR to preview event displays with your phone</li>
     <li> Sign up / Log in to manage your bookings</li>
   </ul>
